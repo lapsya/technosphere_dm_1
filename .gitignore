@@ -89,5 +89,6 @@ ENV/
 .ropeproject
 
 # ignor files with secret keys
-secret_consumer.txt
-secret_token.txt
+consumer_key_secret.txt
+access_token.txt
+access_token_secret.txt
